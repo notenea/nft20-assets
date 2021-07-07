@@ -1330,5 +1330,15 @@
      "uniswap_v3": false,
     "lp_fees": 0,
      "removedFees": false
-   }
+   },
+  {
+    "name": "DEADHEADS",
+    "symbol": "DEAD20",
+    "logo": "https://lh3.googleusercontent.com/jkkmdDv4AdJnFDzSJX1F74irEnDEaCNc9LUpF1oGyOhNLBRVc5N4Ftx7CXH0XgDGpa0PwQq-cQk0FHMpLem9_pvgBGTIozSGtVdc=s64",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  }
 ]
