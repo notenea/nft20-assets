@@ -1370,18 +1370,6 @@
     "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-top-dog-beach-club-nft20-pool-4c8dd3631a98",
     "removedFees": false
   },
-   {
-    "name": "Gorilla Nemesis",
-    "symbol": "GONS20",
-    "logo": "https://lh3.googleusercontent.com/hsz9cxOgVV7Ke8kUX0lObPDshEYhjFllgGZkemzCH0Muc8QXsFq5i4QIRQp2Sc_9EIG266Mp_xSakl_jr0XD9hyNk97WTddg2icaYQ=s130",
-    "color": "#97e536",
-     "uniswap": false,
-     "lpToken": false,
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
-    "removedFees": false
-  },
   {
     "name": "GOATz",
     "symbol": "GOATZ20",
@@ -1622,6 +1610,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0x2eccad8c2b54df26811094f299b88759ecf5056b",
     "lpToken": "0x2eccad8c2b54df26811094f299b88759ecf5056b",
     "hide": false,
+    "guide": false,
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
